@@ -1,5 +1,5 @@
 # _*_coding:utf-8_*_
-
+# 11111
 from __future__ import print_function
 import numpy
 import logging
@@ -8,8 +8,6 @@ from stanfordcorenlp import StanfordCoreNLP
 
 # local_corenlp_path = r'G:/JavaLibraries/stanford-corenlp-full-2016-10-31/'
 # local_corenlp_path = r'G:\JavaLibraries\stanford-corenlp-full-2017-06-09'
-local_corenlp_path = r'G:\JavaLibraries\stanford-corenlp-full-2018-01-31'
-# local_corenlp_path = r'/home/gld/JavaLibs/stanford-corenlp-full-2016-10-31'
 
 # Simple usage
 nlp = StanfordCoreNLP(local_corenlp_path, quiet=False, logging_level=logging.DEBUG)
