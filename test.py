@@ -3,7 +3,7 @@
 from __future__ import print_function
 import numpy
 import logging
-
+11111111
 from stanfordcorenlp import StanfordCoreNLP
 
 # local_corenlp_path = r'G:/JavaLibraries/stanford-corenlp-full-2016-10-31/'
