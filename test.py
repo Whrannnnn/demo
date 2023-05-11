@@ -1,7 +1,6 @@
 # _*_coding:utf-8_*_
 
 from __future__ import print_function
-import numpy
 import logging
 
 from stanfordcorenlp import StanfordCoreNLP
