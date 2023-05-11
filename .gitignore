@@ -27,6 +27,6 @@ Testing
 .ninja*
 build.*
 outs
-11
+11.png
 knowledge.json
 setup.py
